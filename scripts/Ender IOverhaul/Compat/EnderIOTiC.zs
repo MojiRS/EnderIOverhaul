@@ -1,5 +1,5 @@
 #priority 100
-#modloaded enderiointegrationticlate
+#modloaded enderiointegrationticlate tconstruct
 
 import mods.jei.JEI;
 import mods.tconstruct.Alloy;
