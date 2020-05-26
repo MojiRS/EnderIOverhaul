@@ -4,7 +4,7 @@ Comprehensive recipe overhaul and rebalance of Ender IO
 Ender IOverhaul is a set of CraftTweaker scripts and other recipe changes with the goal of polishing Ender IO's progression and rebalancing or reworking certain parts of the mod. It was designed to be able to be dropped into any sort of modpack and be as seamless an experience as possible. The overall design goals are:
 
 * Tie Ender IO's progression more closely to vanilla's
-* Rework aspects of and solidfy the machine tier system
+* Rework aspects of and solidify the machine tier system
 * Minimize microcrafting
 
 So what does that mean in practice?
