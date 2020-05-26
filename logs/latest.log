@@ -1,0 +1,938 @@
+[10:59:39] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:59:39] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:59:39] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:59:39] [main/INFO]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[10:59:39] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Riley\Documents\Curse\Minecraft\Install\runtime\jre-x64
+[10:59:39] [main/INFO]: Searching C:\Users\Riley\Documents\Curse\Minecraft\Instances\Ender IOverhaul\mods for mods
+[10:59:39] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.64+dev.151.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:59:39] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:59:39] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:59:39] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:59:39] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:59:39] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:59:39] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:59:40] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[10:59:40] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[10:59:40] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:59:40] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:59:41] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:59:41] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:59:41] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:59:41] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:59:41] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[10:59:41] [main/INFO]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[10:59:42] [Client thread/INFO]: Setting user: MojiRS
+[10:59:43] [Client thread/INFO]: Transforming Class [net.minecraft.entity.item.EntityItemFrame], Method [func_184230_a]
+[10:59:43] [Client thread/INFO]: Transforming net.minecraft.entity.item.EntityItemFrame Finished.
+[10:59:44] [Client thread/INFO]: Transforming Class [net.minecraft.entity.ai.EntityAICreeperSwell], Method [func_75246_d]
+[10:59:44] [Client thread/INFO]: Transforming net.minecraft.entity.ai.EntityAICreeperSwell Finished.
+[10:59:45] [Client thread/INFO]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[10:59:45] [Client thread/INFO]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[10:59:45] [Client thread/WARN]: Skipping bad option: lastServer:
+[10:59:45] [Client thread/INFO]: LWJGL Version: 2.9.4
+[10:59:46] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 611228944 bytes (582 MB) / 1073741824 bytes (1024 MB) up to 4294967296 bytes (4096 MB)
+	JVM Flags: 10 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4096m -Xms256m -XX:PermSize=256m -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=25 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+Inventory Tweaks Coremod (InventoryTweaks-1.64+dev.151.jar)
+  invtweaks.forge.asm.ContainerTransformer
+EnderCorePlugin (EnderCore-1.12.2-0.5.75-core.jar)
+  com.enderio.core.common.transform.EnderCoreTransformer
+  com.enderio.core.common.transform.SimpleMixinPatcher
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 445.87' Renderer: 'GeForce GTX 1080/PCIe/SSE2'
+[10:59:46] [Client thread/INFO]: MinecraftForge v14.23.5.2854 Initialized
+[10:59:46] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[10:59:46] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[10:59:46] [Client thread/INFO]: Replaced 1227 ore ingredients
+[10:59:46] [Client thread/INFO]: Searching C:\Users\Riley\Documents\Curse\Minecraft\Instances\Ender IOverhaul\mods for mods
+[10:59:48] [Client thread/WARN]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[10:59:48] [Client thread/INFO]: Forge Mod Loader has identified 25 mods to load
+[10:59:48] [Client thread/INFO]: FML has found a non-mod file AutoSave-1.12.2-1.0.11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:59:48] [Client thread/INFO]: FML has found a non-mod file AutoConfig-1.12.2-1.0.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:59:48] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 149116100 nanos
+[10:59:48] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, codechickenlib, ctgui, crafttweaker, crafttweakerjei, endercore, enderio, enderiobase, enderioconduits, enderiopowertools, enderioendergy, enderiomachines, endertweaker, inventorytweaks, jei, jeiintegration, jeresources, lootcapacitortooltips, loottweaker, modtweaker, mousetweaks, mtlib] at CLIENT
+[10:59:48] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, codechickenlib, ctgui, crafttweaker, crafttweakerjei, endercore, enderio, enderiobase, enderioconduits, enderiopowertools, enderioendergy, enderiomachines, endertweaker, inventorytweaks, jei, jeiintegration, jeresources, lootcapacitortooltips, loottweaker, modtweaker, mousetweaks, mtlib] at SERVER
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at java.security.AccessController.doPrivileged(Native Method)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at crafttweaker.mc1120.CraftTweaker.lambda$onConstruction$1(CraftTweaker.java:84)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at crafttweaker.mc1120.CraftTweaker$$Lambda$71/1305597799.run(Unknown Source)
+[10:59:50] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:88]: 	at java.lang.Thread.run(Thread.java:745)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 20 more
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[10:59:50] [Thread-5/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 26 more
+[10:59:50] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[10:59:50] [Client thread/INFO]: Registered mixin.
+[10:59:50] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.power.forge.item.InternalPoweredItemMixin
+[10:59:50] [Client thread/INFO]: Registered mixin.
+[10:59:50] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[10:59:50] [Client thread/INFO]: Registered mixin.
+[10:59:50] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[10:59:50] [Client thread/INFO]: Registered mixin.
+[10:59:50] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.integration.thaumcraft.ThaumcraftArmorMixin
+[10:59:50] [Client thread/INFO]: Skipping mixin due to missing dependencies: [thaumcraft]
+[10:59:50] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.item.darksteel.upgrade.DarkSteelUpgradeMixin
+[10:59:50] [Client thread/INFO]: Registered mixin.
+[10:59:50] [Client thread/INFO]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[10:59:50] [Client thread/INFO]: Registered mixin.
+[10:59:50] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[10:59:50] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[10:59:50] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[10:59:50] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[10:59:50] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.power.forge.item.InternalPoweredItemMixin.
+[10:59:50] [Client thread/INFO]: Found interface target crazypants.enderio.base.power.forge.item.IInternalPoweredItem
+[10:59:50] [Client thread/INFO]: Found mixin source class data for crazypants.enderio.base.item.darksteel.upgrade.DarkSteelUpgradeMixin.
+[10:59:50] [Client thread/INFO]: Found interface target crazypants.enderio.api.upgrades.IDarkSteelItem
+[10:59:50] [Client thread/INFO]: Found interface target crazypants.enderio.base.paint.IPaintable$ITexturePaintableBlock
+[10:59:50] [Client thread/INFO]: Found interface target crazypants.enderio.base.paint.IPaintable$IBlockPaintableBlock
+[10:59:50] [Client thread/INFO]: Found interface target crazypants.enderio.base.paint.IPaintable$INonSolidBlockPaintableBlock
+[10:59:50] [Client thread/INFO]: Found interface target crazypants.enderio.base.paint.IPaintable$ISolidBlockPaintableBlock
+[10:59:50] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemInventoryCharger from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:50] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemInventoryCharger (DarkSteelUpgradeMixin)
+[10:59:50] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:50] [Client thread/INFO]: Successfully patched.
+[10:59:50] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelCrook from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:50] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelCrook (DarkSteelUpgradeMixin)
+[10:59:50] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:50] [Client thread/INFO]: Successfully patched.
+[10:59:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:CraftTweaker2, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:Ender IO Base, FMLFileResourcePack:Ender IO Conduits, FMLFileResourcePack:Ender IO Powertools, FMLFileResourcePack:Ender IO endergy, FMLFileResourcePack:Ender IO Machines, FMLFileResourcePack:EnderTweaker, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JEI Integration, FMLFileResourcePack:Just Enough Resources, FMLFileResourcePack:Loot Capacitor Tooltips, FMLFileResourcePack:LootTweaker, FMLFileResourcePack:Mod Tweaker, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:MTLib
+[10:59:51] [Client thread/INFO]: Transforming Class [net.minecraft.client.renderer.RenderItem], Method [func_180453_a, func_184391_a]
+[10:59:51] [Client thread/INFO]: Transforming net.minecraft.client.renderer.RenderItem Finished.
+[10:59:51] [Client thread/INFO]: Processing ObjectHolder annotations
+[10:59:51] [Client thread/INFO]: Found 1169 ObjectHolder annotations
+[10:59:51] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[10:59:51] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[10:59:52] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[10:59:52] [Forge Version Check/INFO]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.12.2
+[10:59:52] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[10:59:52] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Target: null
+[10:59:52] [Forge Version Check/INFO]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[10:59:52] [Forge Version Check/INFO]: [codechickenlib] Found status: BETA Target: null
+[10:59:52] [Forge Version Check/INFO]: [mousetweaks] Starting version check at http://play.sourceruns.org/yalter/MouseTweaks/update.json
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedFence from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedFence (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedFenceGate from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedFenceGate (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedWall from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedWall (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedStairs from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedStairs (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedSlab from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedSlab (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedGlowstone from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedGlowstone (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedGlowstone$BlockPaintedGlowstoneNonSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedGlowstone$BlockPaintedGlowstoneNonSolid (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedGlowstone$BlockPaintedGlowstoneSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedGlowstone$BlockPaintedGlowstoneSolid (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedCarpet from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedCarpet (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedPressurePlate from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedPressurePlate (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedRedstone from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedRedstone (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedRedstone$BlockPaintedRedstoneNonSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedRedstone$BlockPaintedRedstoneNonSolid (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedRedstone$BlockPaintedRedstoneSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedRedstone$BlockPaintedRedstoneSolid (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedStone from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedStone (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedTrapDoor from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedTrapDoor (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedDoor from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ITexturePaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedDoor (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedWorkbench from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedWorkbench (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian$BlockPaintedReinforcedObsidianNonSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian$BlockPaintedReinforcedObsidianNonSolid (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian$BlockPaintedReinforcedObsidianSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedReinforcedObsidian$BlockPaintedReinforcedObsidianSolid (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedPackedIce from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedPackedIce (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedPackedIce$BlockPaintedPackedIceNonSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedPackedIce$BlockPaintedPackedIceNonSolid (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.painted.BlockPaintedPackedIce$BlockPaintedPackedIceSolid from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.painted.BlockPaintedPackedIce$BlockPaintedPackedIceSolid (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.travelstaff.ItemTravelStaff from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.travelstaff.ItemTravelStaff (DarkSteelUpgradeMixin)
+[10:59:53] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.power.forge.item.AbstractPoweredItem from implemented interfaces: [crazypants/enderio/base/power/forge/item/IInternalPoweredItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.power.forge.item.AbstractPoweredItem (InternalPoweredItemMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.material.glass.BlockPaintedFusedQuartz from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.material.glass.BlockPaintedFusedQuartz (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.block.detector.BlockDetector from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.block.detector.BlockDetector (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelArmor from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelArmor (DarkSteelUpgradeMixin)
+[10:59:53] [Client thread/INFO]: Added 4 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, addCommonEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, addBasicEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelShield from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelShield (DarkSteelUpgradeMixin)
+[10:59:53] [Client thread/INFO]: Added 2 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelSword from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelSword (DarkSteelUpgradeMixin)
+[10:59:53] [Client thread/INFO]: Added 2 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelPickaxe from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelPickaxe (DarkSteelUpgradeMixin)
+[10:59:53] [Client thread/INFO]: Added 5 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, addCommonEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, addBasicEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelAxe from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelAxe (DarkSteelUpgradeMixin)
+[10:59:53] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelBow from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelBow (DarkSteelUpgradeMixin)
+[10:59:53] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelShears from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelShears (DarkSteelUpgradeMixin)
+[10:59:53] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelTreetap from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelTreetap (DarkSteelUpgradeMixin)
+[10:59:53] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelHand from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelHand (DarkSteelUpgradeMixin)
+[10:59:53] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.item.staffoflevity.ItemStaffOfLevity from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.item.staffoflevity.ItemStaffOfLevity (DarkSteelUpgradeMixin)
+[10:59:53] [Client thread/INFO]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.conduits.conduit.BlockConduitBundle from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.conduits.conduit.BlockConduitBundle (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.powertools.machine.capbank.BlockCapBank from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.powertools.machine.capbank.BlockCapBank (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.powertools.machine.capbank.BlockItemCapBank from implemented interfaces: [crazypants/enderio/base/power/forge/item/IInternalPoweredItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.powertools.machine.capbank.BlockItemCapBank (InternalPoweredItemMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Forge Version Check/INFO]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.powertools.machine.monitor.BlockPowerMonitor from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.powertools.machine.monitor.BlockPowerMonitor (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.alloy.BlockAlloySmelter from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.alloy.BlockAlloySmelter (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.base.power.forge.item.PoweredBlockItem from implemented interfaces: [crazypants/enderio/base/power/forge/item/IInternalPoweredItem]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.base.power.forge.item.PoweredBlockItem (InternalPoweredItemMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Forge Version Check/INFO]: [jeiintegration] Found status: UP_TO_DATE Target: null
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.buffer.BlockBuffer from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.buffer.BlockBuffer (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.farm.BlockFarmStation from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.farm.BlockFarmStation (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.generator.combustion.BlockCombustionGenerator from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.generator.combustion.BlockCombustionGenerator (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:53] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.generator.stirling.BlockStirlingGenerator from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:53] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.generator.stirling.BlockStirlingGenerator (MobilityFlagForPaintedBlocksMixin)
+[10:59:53] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:53] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.generator.lava.BlockLavaGenerator from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.generator.lava.BlockLavaGenerator (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.painter.BlockPainter from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.painter.BlockPainter (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.sagmill.BlockSagMill from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.sagmill.BlockSagMill (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.slicensplice.BlockSliceAndSplice from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.slicensplice.BlockSliceAndSplice (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.soul.BlockSoulBinder from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.soul.BlockSoulBinder (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.spawner.BlockPoweredSpawner from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.spawner.BlockPoweredSpawner (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.vat.BlockVat from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.vat.BlockVat (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.wired.BlockWiredCharger from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.wired.BlockWiredCharger (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.wireless.BlockWirelessCharger from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.wireless.BlockWirelessCharger (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.tank.BlockTank from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.tank.BlockTank (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.transceiver.BlockTransceiver from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.transceiver.BlockTransceiver (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.vacuum.chest.BlockVacuumChest from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.vacuum.chest.BlockVacuumChest (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.vacuum.xp.BlockXPVacuum from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.vacuum.xp.BlockXPVacuum (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.niard.BlockNiard from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$INonSolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.niard.BlockNiard (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.teleport.anchor.BlockTravelAnchor from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$IBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.teleport.anchor.BlockTravelAnchor (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.teleport.telepad.BlockTelePad from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.teleport.telepad.BlockTelePad (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.crafter.BlockCrafter from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.crafter.BlockCrafter (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Found 1 patch to apply to class crazypants.enderio.machines.machine.spawner.creative.BlockCreativeSpawner from implemented interfaces: [crazypants/enderio/base/paint/IPaintable$ISolidBlockPaintableBlock]
+[10:59:54] [Client thread/INFO]: Patching 1 mixins onto class crazypants.enderio.machines.machine.spawner.creative.BlockCreativeSpawner (MobilityFlagForPaintedBlocksMixin)
+[10:59:54] [Client thread/INFO]: Added 1 new method: [func_149656_h(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/block/material/EnumPushReaction;]
+[10:59:54] [Client thread/INFO]: Successfully patched.
+[10:59:54] [Client thread/INFO]: Loading configs..
+[10:59:54] [Client thread/INFO]: Updating ModMetaData...
+[10:59:54] [Client thread/INFO]: Providing API...
+[10:59:58] [Client thread/INFO]: Applying holder lookups
+[10:59:58] [Client thread/INFO]: Holder lookups applied
+[10:59:58] [Client thread/INFO]: Applying holder lookups
+[10:59:58] [Client thread/INFO]: Holder lookups applied
+[10:59:58] [Client thread/INFO]: Farming Station: Extra Utilities 2 integration not loaded
+[10:59:58] [Client thread/INFO]: Farming Station: IC2 integration not loaded
+[10:59:58] [Client thread/INFO]: Farming Station: IC2 classic integration not loaded
+[10:59:58] [Client thread/INFO]: Farming Station: Natura integration not loaded
+[10:59:58] [Client thread/INFO]: Farming Station: Immersive Engineering integration not loaded
+[10:59:58] [Client thread/INFO]: Farming Station: MFR integration not loaded
+[10:59:58] [Client thread/INFO]: Farming Station: TechReborn integration not loaded
+[10:59:58] [Client thread/WARN]: Potentially Dangerous alternative prefix `botania` for name `petals`, expected `enderio`. This could be a intended override, but in most cases indicates a broken mod.
+[10:59:58] [Client thread/INFO]: Farming Station: Botania integration for farming fully loaded
+[10:59:58] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `dye`, expected `enderio`. This could be a intended override, but in most cases indicates a broken mod.
+[10:59:58] [Client thread/INFO]: Farming Station: Actually Additions integration not loaded
+[10:59:58] [Client thread/INFO]: Farming Station: Metallurgy integration not loaded
+[10:59:58] [Client thread/INFO]: Farming Station: Gardencore integration not loaded
+[10:59:58] [Client thread/INFO]: Farming Station: Botania integration for fertilizing not loaded
+[10:59:58] [Client thread/INFO]: Farming Station: Magicalcrops integration not loaded
+[10:59:58] [Client thread/INFO]: Applying holder lookups
+[10:59:58] [Client thread/INFO]: Holder lookups applied
+[10:59:58] [Client thread/INFO]: Applying holder lookups
+[10:59:58] [Client thread/INFO]: Holder lookups applied
+[10:59:58] [Client thread/INFO]: Injecting itemstacks
+[10:59:58] [Client thread/INFO]: Itemstack injection complete
+[10:59:59] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:59:59] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[10:59:59] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:59:59] [Thread-6/INFO]: OpenAL initialized.
+[10:59:59] [Sound Library Loader/INFO]: Sound engine started
+[11:00:02] [Client thread/INFO]: Max texture size: 16384
+[11:00:05] [Client thread/INFO]: Created: 1024x1024 textures-atlas
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:05] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[11:00:06] [Client thread/WARN]: Potentially Dangerous alternative prefix `enderio` for name `capbank_basic2normal`, expected `enderiopowertools`. This could be a intended override, but in most cases indicates a broken mod.
+[11:00:06] [Client thread/WARN]: Potentially Dangerous alternative prefix `enderio` for name `capbank_normal2vibrant`, expected `enderiopowertools`. This could be a intended override, but in most cases indicates a broken mod.
+[11:00:07] [Client thread/INFO]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: crafttweaker.recipes.IRecipeFunction
+[11:00:07] [Client thread/INFO]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: crafttweaker.recipes.IRecipeFunction
+[11:00:07] [Client thread/INFO]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: crafttweaker.recipes.IRecipeFunction
+[11:00:07] [Client thread/INFO]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: crafttweaker.recipes.IRecipeFunction
+[11:00:07] [Client thread/INFO]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: crafttweaker.recipes.IRecipeFunction
+[11:00:07] [Client thread/INFO]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: crafttweaker.recipes.IRecipeFunction
+[11:00:07] [Client thread/INFO]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: crafttweaker.recipes.IRecipeFunction
+[11:00:07] [Client thread/INFO]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: crafttweaker.recipes.IRecipeFunction
+[11:00:07] [Client thread/INFO]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: crafttweaker.recipes.IRecipeFunction
+[11:00:07] [Client thread/INFO]: [stanhebben.zenscript.parser.expression.ParsedExpressionFunction:compile:34]: Known predicted function type: ZenTypeNative: crafttweaker.recipes.IRecipeFunction
+[11:00:07] [Client thread/INFO]: Applying holder lookups
+[11:00:07] [Client thread/INFO]: Holder lookups applied
+[11:00:07] [Client thread/INFO]: Created: 256x128 textures-atlas
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler SpecialTooltipHandler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler ClientHandler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler RightClickCropHandler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler EnchantTooltipHandler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler FluidVisualsHandler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler FireworkHandler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler AutoSmeltHandler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler FluidSpawnHandler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler Scheduler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler OreDictTooltipHandler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler XPBoostHandler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: [Handlers] Registering handler JoinMessageHandler to busses: [FORGE]
+[11:00:07] [Client thread/INFO]: Sending dummy event to all mods
+[11:00:07] [Client thread/INFO]: Reloading ingame configs for modid: endercore
+[11:00:07] [Client thread/INFO]: Reloading config file...
+[11:00:07] [Client thread/INFO]: Config reload finished
+[11:00:07] [Client thread/INFO]: Reloading config file...
+[11:00:07] [Client thread/INFO]: Config reload finished
+[11:00:07] [Client thread/INFO]: Reloading config file...
+[11:00:07] [Client thread/INFO]: Config reload finished
+[11:00:07] [Client thread/INFO]: Reloading config file...
+[11:00:07] [Client thread/INFO]: Config reload finished
+[11:00:07] [Client thread/INFO]: Reloading config file...
+[11:00:07] [Client thread/INFO]: Config reload finished
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_dark_steel_anvil
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_dark_paper_anvil
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_basic_item_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_advanced_item_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_limited_item_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_big_item_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_big_advanced_item_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_existing_item_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_mod_item_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_power_item_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_soul_filter_normal
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_soul_filter_big
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_enchantment_filter_normal
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_enchantment_filter_big
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_fluid_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_redstone_not_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_redstone_or_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_redstone_and_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_redstone_nor_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_redstone_nand_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_redstone_xor_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_redstone_xnor_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_redstone_toggle_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_redstone_counting_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_redstone_sensor_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_redstone_timer_filter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_dark_steel_helmet
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_dark_steel_chestplate
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_dark_steel_leggings
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_dark_steel_boots
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_end_steel_helmet
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_end_steel_chestplate
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_end_steel_leggings
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_end_steel_boots
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_conduit_bundle
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_cap_bank
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_power_monitor
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_advanced_power_monitor
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_stellar_alloy_helmet
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_stellar_alloy_boots
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_stellar_alloy_chestplate
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.item_stellar_alloy_leggings
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_simple_furnace
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_simple_alloy_smelter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_alloy_smelter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_enhanced_alloy_smelter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_buffer
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_enchanter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_farm_station
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_combustion_generator
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_enhanced_combustion_generator
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_simple_stirling_generator
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_stirling_generator
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_zombie_generator
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_franken_zombie_generator
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_ender_generator
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_lava_generator
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_killer_joe
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_attractor_obelisk
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_aversion_obelisk
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_inhibitor_obelisk
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_relocator_obelisk
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_weather_obelisk
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_experience_obelisk
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_painter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_simple_sag_mill
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_sag_mill
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_enhanced_sag_mill
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_slice_and_splice
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_soul_binder
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_powered_spawner
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_vat
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_enhanced_vat
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_simple_wired_charger
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_wired_charger
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_enhanced_wired_charger
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_tank
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_transceiver
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_vacuum_chest
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_xp_vacuum
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_niard
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_travel_anchor
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_tele_pad
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_dialing_device
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_impulse_hopper
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_simple_crafter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_crafter
+[11:00:07] [Client thread/INFO]: Registered permission enderio.gui.block_creative_spawner
+[11:00:07] [Client thread/INFO]: Sending whitelist message to Chisel and Bits for block blockDecoration1
+[11:00:07] [Client thread/INFO]: Sending whitelist message to Chisel and Bits for block blockDecoration2
+[11:00:07] [Client thread/INFO]: Sending whitelist message to Chisel and Bits for block blockDecoration3
+[11:00:07] [Client thread/WARN]: Failed to check item tree version: null
+[11:00:07] [Client thread/INFO]: Merging tree files.
+[11:00:07] [Client thread/INFO]: Saving merged tree in TEMP folder.
+[11:00:07] [Client thread/INFO]: Merged tree files.
+[11:00:08] [Client thread/INFO]: Mod initialized
+[11:00:08] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] A call to initialize, entry point: FORGE.
+[11:00:08] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Reflecting GuiContainer...
+[11:00:08] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Detected obfuscation: FORGE.
+[11:00:08] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Success.
+[11:00:08] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Minecraft Forge is installed.
+[11:00:08] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] LiteLoader is not installed.
+[11:00:08] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Using Forge for the mod operation.
+[11:00:08] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Mouse Tweaks has been initialized.
+[11:00:08] [Client thread/INFO]: Processing IMC message recipe:xml from endercore
+[11:00:08] [Client thread/INFO]: Processing IMC message recipe:xml from endercore
+[11:00:08] [Client thread/ERROR]: Copying default recipe file from enderio:config/recipes/balls.pdf to C:\Users\Riley\Documents\Curse\Minecraft\Instances\Ender IOverhaul\config\enderio\recipes\balls.pdf failed. Reason:
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: java.io.FileNotFoundException: C:\Users\Riley\Documents\Curse\Minecraft\Instances\Ender IOverhaul\config\enderio\recipes\balls.pdf (The process cannot access the file because it is being used by another process)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.open0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeFactory.copyCore_dontMakeShittyCoreModsPlease(RecipeFactory.java:224)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeFactory.copyCore(RecipeFactory.java:106)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeLoader.readCoreFile(RecipeLoader.java:288)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeLoader.addRecipes(RecipeLoader.java:114)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.EnderIO.onImc(EnderIO.java:170)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:320)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[11:00:08] [Client thread/ERROR]: Copying default recipe file from enderio:config/recipes/endergy_balls.pdf to C:\Users\Riley\Documents\Curse\Minecraft\Instances\Ender IOverhaul\config\enderio\recipes\endergy_balls.pdf failed. Reason:
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: java.io.FileNotFoundException: C:\Users\Riley\Documents\Curse\Minecraft\Instances\Ender IOverhaul\config\enderio\recipes\endergy_balls.pdf (The process cannot access the file because it is being used by another process)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.open0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeFactory.copyCore_dontMakeShittyCoreModsPlease(RecipeFactory.java:224)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeFactory.copyCore(RecipeFactory.java:106)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeLoader.readCoreFile(RecipeLoader.java:288)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeLoader.addRecipes(RecipeLoader.java:114)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.EnderIO.onImc(EnderIO.java:170)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:320)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[11:00:08] [Client thread/INFO]: Reading user recipe file enchanter_compat.xml
+[11:00:08] [Client thread/INFO]: Reading user recipe file grinding_balls.xml
+[11:00:08] [Client thread/INFO]: Reading user recipe file enchanter.xml
+[11:00:08] [Client thread/INFO]: Reading user recipe file user_recipes.xml
+[11:00:08] [Client thread/ERROR]: Copying default recipe file from enderio:config/recipes/balls.pdf to C:\Users\Riley\Documents\Curse\Minecraft\Instances\Ender IOverhaul\config\enderio\recipes\balls.pdf failed. Reason:
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: java.io.FileNotFoundException: C:\Users\Riley\Documents\Curse\Minecraft\Instances\Ender IOverhaul\config\enderio\recipes\balls.pdf (The process cannot access the file because it is being used by another process)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.open0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeFactory.copyCore_dontMakeShittyCoreModsPlease(RecipeFactory.java:224)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeFactory.copyCore(RecipeFactory.java:106)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeLoader.readCoreFile(RecipeLoader.java:288)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeLoader.addRecipes(RecipeLoader.java:143)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.EnderIO.onImc(EnderIO.java:170)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:320)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[11:00:08] [Client thread/ERROR]: Copying default recipe file from enderio:config/recipes/endergy_balls.pdf to C:\Users\Riley\Documents\Curse\Minecraft\Instances\Ender IOverhaul\config\enderio\recipes\endergy_balls.pdf failed. Reason:
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: java.io.FileNotFoundException: C:\Users\Riley\Documents\Curse\Minecraft\Instances\Ender IOverhaul\config\enderio\recipes\endergy_balls.pdf (The process cannot access the file because it is being used by another process)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.open0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeFactory.copyCore_dontMakeShittyCoreModsPlease(RecipeFactory.java:224)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeFactory.copyCore(RecipeFactory.java:106)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeLoader.readCoreFile(RecipeLoader.java:288)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.config.recipes.RecipeLoader.addRecipes(RecipeLoader.java:143)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at crazypants.enderio.base.EnderIO.onImc(EnderIO.java:170)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:320)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:752)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[11:00:08] [Client thread/INFO]: [crazypants.enderio.base.config.recipes.RecipeFactory:copyCore_dontMakeShittyCoreModsPlease:230]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[11:00:08] [Client thread/INFO]: Valid IMC recipes to be processed:
+[11:00:08] [Client thread/INFO]:  * Enchanter: endercore:autosmelt from IMC from mod 'endercore'
+[11:00:08] [Client thread/INFO]:  * Enchanter: endercore:xpboost from IMC from mod 'endercore'
+[11:00:08] [Client thread/INFO]: Reading user recipe file enchanter_compat.xml
+[11:00:08] [Client thread/INFO]: Reading user recipe file grinding_balls.xml
+[11:00:08] [Client thread/INFO]: Reading user recipe file enchanter.xml
+[11:00:08] [Client thread/INFO]: Reading user recipe file user_recipes.xml
+[11:00:08] [Client thread/INFO]: Created 6 synthetic recipes for 3xitem.item_material@38 => 1xitem.item_material@3
+[11:00:08] [Client thread/INFO]: Created 6 synthetic recipes for 4xitem.netherquartz@0 => 1xtile.block_fused_quartz@0
+[11:00:08] [Client thread/INFO]: Created 6 synthetic recipes for 1xtile.quartzBlock@0 => 1xtile.block_fused_quartz@0
+[11:00:08] [Client thread/INFO]: Created 6 synthetic recipes for 1xtile.glass@0 => 1xtile.block_fused_glass@0
+[11:00:08] [Client thread/INFO]: Created 6 synthetic recipes for 1xtile.sapling@0 => 1xtile.deadbush@0
+[11:00:08] [Client thread/INFO]: Created 6 synthetic recipes for 9xitem.item_material@28 => 1xitem.enderPearl@0
+[11:00:08] [Client thread/WARN]: TiC recipe is active, but TiC integration is not loaded
+[11:00:08] [Client thread/WARN]: TiC recipe is active, but TiC integration is not loaded
+[11:00:08] [Client thread/WARN]: TiC recipe is active, but TiC integration is not loaded
+[11:00:08] [Client thread/WARN]: TiC recipe is active, but TiC integration is not loaded
+[11:00:08] [Client thread/WARN]: TiC recipe is active, but TiC integration is not loaded
+[11:00:08] [Client thread/WARN]: TiC recipe is active, but TiC integration is not loaded
+[11:00:08] [Client thread/WARN]: TiC recipe is active, but TiC integration is not loaded
+[11:00:08] [Client thread/INFO]: Injecting itemstacks
+[11:00:08] [Client thread/INFO]: Itemstack injection complete
+[11:00:09] [Client thread/WARN]: Could not find Build Craft Wrench definition. Wrench integration with other mods may fail
+[11:00:09] [Client thread/INFO]: Starting JEI...
+[11:00:09] [Client thread/INFO]: Registering recipe categories...
+[11:00:09] [Client thread/INFO]: Registering recipe categories took 25.82 ms
+[11:00:09] [Client thread/INFO]: Registering mod plugins...
+[11:00:09] [Client thread/INFO]: InfinityRecipeCategory: Added 2 infinity recipe(s) to JEI in 0.023 seconds.
+[11:00:10] [Client thread/INFO]: AlloyRecipeCategory: Added 103 alloy smelter recipes to JEI in 0.005 seconds.
+[11:00:10] [Client thread/INFO]: CombustionRecipeCategory: Added 6 combustion generator recipes to JEI in 0.004 seconds.
+[11:00:10] [Client thread/INFO]: Added recipe registry plugin: class crazypants.enderio.machines.integration.jei.PainterRegistryPlugin
+[11:00:10] [Client thread/INFO]: StirlingRecipeCategory: Added 10 stirling generator recipes for 130 solid fuels to JEI in 0.005 seconds.
+[11:00:10] [Client thread/INFO]: TankRecipeCategory: Added 202 tank recipes to JEI in 0.010 seconds.
+[11:00:10] [Client thread/INFO]: WiredChargerRecipeCategory: Added 19 item charging recipes to JEI in 0.021 seconds.
+[11:00:10] [Client thread/INFO]: WeatherObeliskRecipeCategory: Added 3 weather changing recipes to JEI in 0.003 seconds.
+[11:00:10] [Client thread/INFO]: Registering mod plugins took 879.8 ms
+[11:00:10] [Client thread/INFO]: Building recipe registry...
+[11:00:10] [Client thread/INFO]: Building recipe registry took 127.7 ms
+[11:00:10] [Client thread/INFO]: Building ingredient list...
+[11:00:10] [Client thread/INFO]: Building ingredient list took 22.43 ms
+[11:00:10] [Client thread/INFO]: Building ingredient filter...
+[11:00:11] [Client thread/INFO]: Building ingredient filter took 272.0 ms
+[11:00:11] [Client thread/INFO]: Building bookmarks...
+[11:00:11] [Client thread/WARN]: Failed to load bookmarked ItemStack from json string, the item no longer exists:
+{id:"thermalexpansion:machine",Count:1b,tag:{RSControl:0b,Facing:3b,Energy:0,SideCache:[B;1B,1B,2B,2B,2B,2B],Level:0b},Damage:13s}
+[11:00:11] [Client thread/INFO]: Building bookmarks took 6.062 ms
+[11:00:11] [Client thread/INFO]: Building runtime...
+[11:00:11] [Client thread/INFO]: InvTweaks: successfully transformed setFocused/func_146195_b
+[11:00:11] [Client thread/INFO]: Building runtime took 69.78 ms
+[11:00:11] [Client thread/INFO]: Ingredients are being removed at runtime: 95 net.minecraft.item.ItemStack
+[11:00:11] [Client thread/INFO]: Optimizing memory usage...
+[11:00:11] [Client thread/INFO]: Optimizing memory usage took 60.84 ms
+[11:00:11] [Client thread/INFO]: Starting JEI took 1.618 s
+[11:00:11] [Client thread/INFO]: Forge Mod Loader has successfully loaded 25 mods
+[11:00:11] [Client thread/WARN]: Skipping bad option: lastServer:
+[11:00:11] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[11:01:17] [Client thread/INFO]: Deleting level New World
+[11:01:17] [Client thread/INFO]: Attempt 1...
+[11:01:21] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[11:01:21] [Server thread/INFO]: Generating keypair
+[11:01:21] [Server thread/INFO]: Permission Handler is: (default)
+[11:01:21] [Server thread/INFO]: Injecting existing registry data into this server instance
+[11:01:21] [Server thread/INFO]: Applying holder lookups
+[11:01:21] [Server thread/INFO]: Holder lookups applied
+[11:01:21] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@315c0128)
+[11:01:22] [Server thread/INFO]: Loaded 529 advancements
+[11:01:22] [Server thread/INFO]: Transforming Class [net.minecraft.world.chunk.storage.ExtendedBlockStorage], Method [func_76663_a]
+[11:01:22] [Server thread/INFO]: Transforming net.minecraft.world.chunk.storage.ExtendedBlockStorage Finished.
+[11:01:22] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@315c0128)
+[11:01:22] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@315c0128)
+[11:01:22] [Server thread/INFO]: Preparing start region for level 0
+[11:01:23] [Server thread/INFO]: Preparing spawn area: 18%
+[11:01:24] [Server thread/INFO]: Preparing spawn area: 40%
+[11:01:25] [Server thread/INFO]: Preparing spawn area: 60%
+[11:01:26] [Server thread/INFO]: Preparing spawn area: 84%
+[11:01:27] [Server thread/INFO]: Unloading dimension -1
+[11:01:27] [Server thread/INFO]: Unloading dimension 1
+[11:01:27] [Server thread/INFO]: Changing view distance to 12, from 10
+[11:01:28] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[11:01:28] [Netty Server IO #1/INFO]: Client protocol version 2
+[11:01:28] [Netty Server IO #1/INFO]: Client attempting to join with 25 mods : minecraft@1.12.2,ctgui@1.0.0,crafttweakerjei@2.0.3,mousetweaks@2.10,enderiomachines@5.1.55,mtlib@3.0.6,jei@4.15.0.293,modtweaker@4.0.18,enderiopowertools@5.1.55,enderio@5.1.55,jeiintegration@1.6.0,endercore@1.12.2-0.5.75,loottweaker@0.1.7,mcp@9.42,enderioendergy@5.1.55,endertweaker@1.2.0,FML@8.0.99.99,inventorytweaks@1.64+dev.151.822d839,enderiobase@5.1.55,crafttweaker@4.1.20,jeresources@0.9.2.60,forge@14.23.5.2854,codechickenlib@3.2.3.358,enderioconduits@5.1.55,lootcapacitortooltips@1.3
+[11:01:28] [Netty Server IO #1/INFO]: Skipping config sync, No mods have registered a syncable config.
+[11:01:28] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[11:01:28] [Server thread/INFO]: [Server thread] Server side modded connection established
+[11:01:28] [Server thread/INFO]: MojiRS[local:E:f0df9e46] logged in with entity id 1509 at (-22.5, 65.0, -144.5)
+[11:01:28] [Server thread/INFO]: MojiRS joined the game
+[11:01:28] [Server thread/INFO]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[11:01:29] [Server thread/INFO]: Saving and pausing game...
+[11:01:29] [Server thread/INFO]: Saving chunks for level 'New World'/overworld

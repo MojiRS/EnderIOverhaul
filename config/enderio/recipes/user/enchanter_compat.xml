@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+	
+	<!-- CoFH -->
+	
+	<recipe name="Enchanter: cofhcore:holding" required="false" disabled="false">
+		<enchanting>
+			<input name="oredict:chestWood" amount="2"/>
+			<enchantment name="cofhcore:holding" costMultiplier="1"/>
+		</enchanting>
+	</recipe>
+	
+	<recipe name="Enchanter: cofhcore:insight" required="false" disabled="false">
+		<enchanting>
+			<input name="minecraft:experience_bottle" amount="2"/>
+			<enchantment name="cofhcore:insight" costMultiplier="1"/>
+		</enchanting>
+	</recipe>
+	
+	<recipe name="Enchanter: cofhcore:leech" required="false" disabled="false">
+		<enchanting>
+			<input name="oredict:cropNetherWart" amount="4"/>
+			<enchantment name="cofhcore:leech" costMultiplier="1"/>
+		</enchanting>
+	</recipe>
+	
+	<recipe name="Enchanter: cofhcore:multishot" required="false" disabled="false">
+		<enchanting>
+			<input name="minecraft:arrow" amount="4"/>
+			<enchantment name="cofhcore:multishot" costMultiplier="1"/>
+		</enchanting>
+	</recipe>
+	
+	<recipe name="Enchanter: cofhcore:smelting" required="false" disabled="false">
+		<enchanting>
+			<input name="oredict:dustPyrotheum" amount="4"/>
+			<enchantment name="cofhcore:smelting" costMultiplier="1.5"/>
+		</enchanting>
+	</recipe>
+	
+	<recipe name="Enchanter: cofhcore:smashing" required="false" disabled="false">
+		<enchanting>
+			<input name="oredict:dustPetrotheum" amount="4"/>
+			<enchantment name="cofhcore:smashing" costMultiplier="1.5"/>
+		</enchanting>
+	</recipe>
+	
+	<recipe name="Enchanter: cofhcore:vorpal" required="false" disabled="false">
+		<enchanting>
+			<input name="minecraft:skull:1" amount="1"/>
+			<enchantment name="cofhcore:vorpal" costMultiplier="1"/>
+		</enchanting>
+	</recipe>
+	
+	<recipe name="Enchanter: cofhcore:soulbound" required="false" disabled="false">
+		<enchanting>
+			<input name="minecraft:soul_sand" amount="8"/>
+			<enchantment name="cofhcore:soulbound" costMultiplier="1"/>
+		</enchanting>
+	</recipe>
+	
+	<!-- Astral Sorcery -->
+	
+	<recipe name="Enchanter: astralsorcery:enchantment.as.nightvision" required="false" disabled="false">
+		<enchanting>
+			<input name="dustAstralStarmetal" amount="4"/>
+			<enchantment name="astralsorcery:enchantment.as.nightvision" costMultiplier="2"/>
+		</enchanting>
+	</recipe>
+	
+	<recipe name="Enchanter: astralsorcery:enchantment.as.smelting" required="false" disabled="false">
+		<enchanting>
+			<input name="minecraft:magma" amount="8"/>
+			<enchantment name="astralsorcery:enchantment.as.smelting" costMultiplier="2"/>
+		</enchanting>
+	</recipe>
+	
+	<!-- Draconic Evolution -->
+	
+	<recipe name="Enchanter: draconicevolution:enchant_reaper" required="false" disabled="false">
+		<enchanting>
+			<input name="draconicevolution:draconium_dust" amount="4"/>
+			<enchantment name="draconicevolution:enchant_reaper" costMultiplier="1"/>
+		</enchanting>
+	</recipe>
+	
+	<!-- Railcraft -->
+	
+	<recipe name="Enchanter: railcraft:destruction" required="false" disabled="false">
+		<enchanting>
+			<input name="oredict:dustSulfur" amount="4"/>
+			<enchantment name="railcraft:destruction" costMultiplier="1"/>
+		</enchanting>
+	</recipe>
+	
+	<recipe name="Enchanter: railcraft:wrecking" required="false" disabled="false">
+		<enchanting>
+			<input name="oredict:ingotSteel" amount="2"/>
+			<enchantment name="railcraft:wrecking" costMultiplier="1"/>
+		</enchanting>
+	</recipe>
+	
+	<recipe name="Enchanter: railcraft:smack" required="false" disabled="false">
+		<enchanting>
+			<input name="oredict:stickWood" amount="8"/>
+			<enchantment name="railcraft:smack" costMultiplier="0.75"/>
+		</enchanting>
+	</recipe>
+
+</enderio:recipes>
