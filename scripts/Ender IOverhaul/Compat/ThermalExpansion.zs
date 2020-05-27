@@ -63,3 +63,11 @@ Factorizer.removeRecipeSplit(<enderio:block_alloy_endergy:6>);
 Factorizer.removeRecipeSplit(<enderio:item_alloy_endergy_ingot:6>);
 Factorizer.removeRecipeCombine(<enderio:item_alloy_endergy_nugget:6> * 9);
 Factorizer.removeRecipeCombine(<enderio:item_alloy_endergy_ingot:6> * 9);
+
+// Electrical Steel
+InductionSmelter.removeRecipe(<thermalfoundation:material:160>, <nuclearcraft:gem:6>);
+InductionSmelter.removeRecipe(<thermalfoundation:material:96>, <nuclearcraft:gem:6>);
+
+// Soularium
+InductionSmelter.removeRecipe(<minecraft:soul_sand>, <minecraft:gold_ingot>);
+InductionSmelter.removeRecipe(<minecraft:soul_sand>, <thermalfoundation:material:1>);
