@@ -35,6 +35,7 @@ EnderIOverhaul requires:
 It also has compatibility included for:
 * Thermal suite
 * Tinkers Construct/Ender IO TiC
+* Nuclearcraft
 * Applied Energistics 2
 * Astral Sorcery
 * Draconic Evolution
