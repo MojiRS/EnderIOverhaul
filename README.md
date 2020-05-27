@@ -22,7 +22,7 @@ To install, simply extract the contents of the download to your modpack's instan
 
 ## Dependencies
 
-EnderIOverhaul requires:
+Ender IOverhaul requires:
 * EnderCore
 * Ender IO
 * Ender IO Endergy
